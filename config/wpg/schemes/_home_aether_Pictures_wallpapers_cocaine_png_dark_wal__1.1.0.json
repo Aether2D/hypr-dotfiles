@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/cocaine.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1e25",
+        "foreground": "#b3ccd3",
+        "cursor": "#b3ccd3"
+    },
+    "colors": {
+        "color0": "#1b1e25",
+        "color1": "#658B99",
+        "color2": "#68909E",
+        "color3": "#69909E",
+        "color4": "#6A92A0",
+        "color5": "#6C96A4",
+        "color6": "#6D97A5",
+        "color7": "#b3ccd3",
+        "color8": "#7d8e93",
+        "color9": "#658B99",
+        "color10": "#68909E",
+        "color11": "#69909E",
+        "color12": "#6A92A0",
+        "color13": "#6C96A4",
+        "color14": "#6D97A5",
+        "color15": "#b3ccd3"
+    }
+}

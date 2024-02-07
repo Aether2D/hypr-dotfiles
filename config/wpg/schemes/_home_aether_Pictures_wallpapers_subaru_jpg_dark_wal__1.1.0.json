@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/subaru.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0A0B",
+        "foreground": "#e3e1cc",
+        "cursor": "#e3e1cc"
+    },
+    "colors": {
+        "color0": "#0A0A0B",
+        "color1": "#1A2F82",
+        "color2": "#182B95",
+        "color3": "#215FB5",
+        "color4": "#6A90B6",
+        "color5": "#A69C8A",
+        "color6": "#D9AC97",
+        "color7": "#e3e1cc",
+        "color8": "#9e9d8e",
+        "color9": "#1A2F82",
+        "color10": "#182B95",
+        "color11": "#215FB5",
+        "color12": "#6A90B6",
+        "color13": "#A69C8A",
+        "color14": "#D9AC97",
+        "color15": "#e3e1cc"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Ganyu-Flower.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#e7ebe4",
+        "cursor": "#e7ebe4"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#A5A6AC",
+        "color2": "#C9B8B0",
+        "color3": "#DDD0B3",
+        "color4": "#9CB5C7",
+        "color5": "#AFC9CD",
+        "color6": "#D0D0C7",
+        "color7": "#e7ebe4",
+        "color8": "#a1a49f",
+        "color9": "#A5A6AC",
+        "color10": "#C9B8B0",
+        "color11": "#DDD0B3",
+        "color12": "#9CB5C7",
+        "color13": "#AFC9CD",
+        "color14": "#D0D0C7",
+        "color15": "#e7ebe4"
+    }
+}

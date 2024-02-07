@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/koi_pond.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#04182A",
+        "foreground": "#7caedd",
+        "cursor": "#7caedd"
+    },
+    "colors": {
+        "color0": "#04182A",
+        "color1": "#066B4B",
+        "color2": "#B27054",
+        "color3": "#078E4B",
+        "color4": "#0AB554",
+        "color5": "#289E63",
+        "color6": "#2EC163",
+        "color7": "#7caedd",
+        "color8": "#56799a",
+        "color9": "#066B4B",
+        "color10": "#B27054",
+        "color11": "#078E4B",
+        "color12": "#0AB554",
+        "color13": "#289E63",
+        "color14": "#2EC163",
+        "color15": "#7caedd"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/anime4.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1e24",
+        "foreground": "#bdd2d3",
+        "cursor": "#bdd2d3"
+    },
+    "colors": {
+        "color0": "#1a1e24",
+        "color1": "#9A8075",
+        "color2": "#566E8E",
+        "color3": "#5E7C9F",
+        "color4": "#6E8FA5",
+        "color5": "#79A4C0",
+        "color6": "#A7A393",
+        "color7": "#bdd2d3",
+        "color8": "#849393",
+        "color9": "#9A8075",
+        "color10": "#566E8E",
+        "color11": "#5E7C9F",
+        "color12": "#6E8FA5",
+        "color13": "#79A4C0",
+        "color14": "#A7A393",
+        "color15": "#bdd2d3"
+    }
+}

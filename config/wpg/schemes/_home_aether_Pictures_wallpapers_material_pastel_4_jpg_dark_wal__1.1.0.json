@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/material_pastel_4.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#7b6c83",
+        "foreground": "#f3f5f6",
+        "cursor": "#f3f5f6"
+    },
+    "colors": {
+        "color0": "#7b6c83",
+        "color1": "#D3D2ED",
+        "color2": "#F0D3E7",
+        "color3": "#D8EEFF",
+        "color4": "#E6F4FF",
+        "color5": "#E6F4FF",
+        "color6": "#F6FBFE",
+        "color7": "#f3f5f6",
+        "color8": "#aaabac",
+        "color9": "#D3D2ED",
+        "color10": "#F0D3E7",
+        "color11": "#D8EEFF",
+        "color12": "#E6F4FF",
+        "color13": "#E6F4FF",
+        "color14": "#F6FBFE",
+        "color15": "#f3f5f6"
+    }
+}

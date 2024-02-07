@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/background.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e110c",
+        "foreground": "#bfcbde",
+        "cursor": "#bfcbde"
+    },
+    "colors": {
+        "color0": "#1e110c",
+        "color1": "#A54A57",
+        "color2": "#286294",
+        "color3": "#5F6299",
+        "color4": "#605EA4",
+        "color5": "#91699E",
+        "color6": "#678FBD",
+        "color7": "#bfcbde",
+        "color8": "#858e9b",
+        "color9": "#A54A57",
+        "color10": "#286294",
+        "color11": "#5F6299",
+        "color12": "#605EA4",
+        "color13": "#91699E",
+        "color14": "#678FBD",
+        "color15": "#bfcbde"
+    }
+}

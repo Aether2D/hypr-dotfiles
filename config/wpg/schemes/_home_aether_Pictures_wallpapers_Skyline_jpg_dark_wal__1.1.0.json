@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Skyline.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#10020f",
+        "foreground": "#c7a190",
+        "cursor": "#c7a190"
+    },
+    "colors": {
+        "color0": "#10020f",
+        "color1": "#5B2620",
+        "color2": "#17334B",
+        "color3": "#283948",
+        "color4": "#1E4155",
+        "color5": "#2C4653",
+        "color6": "#5A4B48",
+        "color7": "#c7a190",
+        "color8": "#8b7064",
+        "color9": "#5B2620",
+        "color10": "#17334B",
+        "color11": "#283948",
+        "color12": "#1E4155",
+        "color13": "#2C4653",
+        "color14": "#5A4B48",
+        "color15": "#c7a190"
+    }
+}

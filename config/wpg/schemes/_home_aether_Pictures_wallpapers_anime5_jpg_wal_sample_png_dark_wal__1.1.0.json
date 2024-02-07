@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/anime5.jpg_wal_sample.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0618",
+        "foreground": "#e1cfe4",
+        "cursor": "#e1cfe4"
+    },
+    "colors": {
+        "color0": "#0B0618",
+        "color1": "#61A1D2",
+        "color2": "#8D9DA6",
+        "color3": "#A78FA3",
+        "color4": "#90A2AA",
+        "color5": "#9FA9E6",
+        "color6": "#A0A9E6",
+        "color7": "#e1cfe4",
+        "color8": "#9d909f",
+        "color9": "#61A1D2",
+        "color10": "#8D9DA6",
+        "color11": "#A78FA3",
+        "color12": "#90A2AA",
+        "color13": "#9FA9E6",
+        "color14": "#A0A9E6",
+        "color15": "#e1cfe4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/sky1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05131E",
+        "foreground": "#bdcddd",
+        "cursor": "#bdcddd"
+    },
+    "colors": {
+        "color0": "#05131E",
+        "color1": "#3FA0D3",
+        "color2": "#539AC8",
+        "color3": "#52ABD9",
+        "color4": "#68B2DA",
+        "color5": "#6FBBE3",
+        "color6": "#7BC0E5",
+        "color7": "#bdcddd",
+        "color8": "#848f9a",
+        "color9": "#3FA0D3",
+        "color10": "#539AC8",
+        "color11": "#52ABD9",
+        "color12": "#68B2DA",
+        "color13": "#6FBBE3",
+        "color14": "#7BC0E5",
+        "color15": "#bdcddd"
+    }
+}

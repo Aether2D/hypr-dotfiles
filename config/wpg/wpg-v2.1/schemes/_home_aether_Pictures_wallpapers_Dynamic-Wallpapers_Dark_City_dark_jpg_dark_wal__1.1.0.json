@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Dynamic-Wallpapers/Dark/City_dark.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090a0d",
+        "foreground": "#b2b4ba",
+        "cursor": "#b2b4ba"
+    },
+    "colors": {
+        "color0": "#090a0d",
+        "color1": "#363944",
+        "color2": "#3A4551",
+        "color3": "#4F4B4E",
+        "color4": "#69615D",
+        "color5": "#857460",
+        "color6": "#8C8673",
+        "color7": "#b2b4ba",
+        "color8": "#7c7d82",
+        "color9": "#363944",
+        "color10": "#3A4551",
+        "color11": "#4F4B4E",
+        "color12": "#69615D",
+        "color13": "#857460",
+        "color14": "#8C8673",
+        "color15": "#b2b4ba"
+    }
+}

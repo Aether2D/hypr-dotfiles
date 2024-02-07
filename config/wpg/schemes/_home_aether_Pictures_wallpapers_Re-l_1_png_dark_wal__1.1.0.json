@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Re-l_1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#d8e4e9",
+        "cursor": "#d8e4e9"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#1D5D9A",
+        "color2": "#51708F",
+        "color3": "#1972C0",
+        "color4": "#49A3D9",
+        "color5": "#95B4C5",
+        "color6": "#AFCDDA",
+        "color7": "#d8e4e9",
+        "color8": "#979fa3",
+        "color9": "#1D5D9A",
+        "color10": "#51708F",
+        "color11": "#1972C0",
+        "color12": "#49A3D9",
+        "color13": "#95B4C5",
+        "color14": "#AFCDDA",
+        "color15": "#d8e4e9"
+    }
+}

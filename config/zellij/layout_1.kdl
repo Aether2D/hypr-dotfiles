@@ -1,0 +1,58 @@
+layout {
+    pane size=1 borderless=true {
+        plugin location="file:/home/aether/.config/zellij/Plugins/zjstatus.wasm" {
+            format_left  "#[bg=transparent,fg=yellow] #[bg=yellow]{mode}#[bg=yellow,fg=black,bold] {session}   #[bg=transparent,fg=yellow]   {tabs}  #[bg=transparent,fg=magenta]#[bg=magenta,fg=black,bold]󰝚 #[fg=black,bold,bg=magenta]{command_ncmpcpp}#[bg=transparent,fg=magenta]"
+            format_right "#[bg=transparent,fg=black]{command_git_branch}#[bg=black,fg=blue]{command_tomato}#[fg=yellow,bg=blue]{command_weather}#[bg=yellow,fg=green]{command_date_day}{command_date}#[bg=green,fg=magenta]#[bg=magenta,fg=black,bold]{datetime}#[bg=magenta,fg=black,bold] "
+            format_space ""
+
+            border_enabled  "true"
+            border_char     "─"
+            border_format   "#[fg=yellow]{char}"
+            border_position "top"
+
+            hide_frame_for_single_pane "false"
+
+            mode_normal  "#[bg=yellow] "
+            mode_tmux    "#[bg=#ffc387] "
+
+            tab_normal   "#[bg=transparent,fg=white]#[bg=transparent] #[bg=transparent,fg=white] {index}  {name}#[bg=transparent] #[bg=transparent,fg=white,bold] "
+            tab_active   "#[bg=transparent,fg=blue]#[bg=blue,fg=black] #[bg=blue,fg=black,bold,italic]{index}  {name}#[bg=blue] #[bg=transparent,fg=blue] "
+
+            command_git_branch_command     "git rev-parse --abbrev-ref HEAD"
+            command_git_branch_format      "#[fg=green,bg=black]  {stdout}"
+            command_git_branch_interval    "10"
+            command_git_branch_rendermode  "static"
+
+            command_tomato_command "tomato -t"
+            command_tomato_format   "#[fg=black,bg=blue,bold] {stdout} "
+            command_tomato_interval "0"
+            command_tomato_rendermode "static"
+
+            command_ncmpcpp_command "./.config/zellij/scripts/playerctl-song.sh"
+            command_ncmpcpp_format   "#[fg=black,bg=magenta,bold]{stdout} "
+            command_ncmpcpp_interval "1"
+            command_ncmpcpp_rendermode "static"
+
+            command_weather_command "./.config/zellij/scripts/Weather.sh"
+            command_weather_format   "#[fg=black,bg=yellow,bold] {stdout} "
+            command_weather_interval "43200"
+            command_weather_rendermode "static"
+
+
+            command_date_command  "date +%d-%m-%Y"
+            command_date_format   "#[fg=black,bg=green,bold] {stdout} "
+            command_date_interval "43200"
+            command_date_rendermode "static"
+
+            command_date_day_command  "date +%a"
+            command_date_day_format   "#[fg=black,bg=green,bold] {stdout}"
+            command_date_day_interval "43200"
+            command_date_day_rendermode "static"
+
+            datetime        "{format}"
+            datetime_format "  %I:%M"
+            datetime_timezone "America/Mexico_City"
+        }
+    }
+    pane
+}

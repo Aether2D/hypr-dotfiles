@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Street.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#0C131B",
+        "foreground": "#abbec2",
+        "cursor": "#abbec2"
+    },
+    "colors": {
+        "color0": "#0C131B",
+        "color1": "#253546",
+        "color2": "#334C5A",
+        "color3": "#34576C",
+        "color4": "#4D6566",
+        "color5": "#697672",
+        "color6": "#AC9967",
+        "color7": "#abbec2",
+        "color8": "#778587",
+        "color9": "#253546",
+        "color10": "#334C5A",
+        "color11": "#34576C",
+        "color12": "#4D6566",
+        "color13": "#697672",
+        "color14": "#AC9967",
+        "color15": "#abbec2"
+    }
+}

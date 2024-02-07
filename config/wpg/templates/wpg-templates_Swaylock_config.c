@@ -1,0 +1,1 @@
+/home/aether/wpg-templates/Swaylock/config.c

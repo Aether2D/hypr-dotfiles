@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/2hu-Aya.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1e1b",
+        "foreground": "#cfe9f2",
+        "cursor": "#cfe9f2"
+    },
+    "colors": {
+        "color0": "#1e1e1b",
+        "color1": "#A5A89B",
+        "color2": "#8AB2DD",
+        "color3": "#A6BBCC",
+        "color4": "#8BBBE6",
+        "color5": "#93CAF0",
+        "color6": "#ABD1ED",
+        "color7": "#cfe9f2",
+        "color8": "#90a3a9",
+        "color9": "#A5A89B",
+        "color10": "#8AB2DD",
+        "color11": "#A6BBCC",
+        "color12": "#8BBBE6",
+        "color13": "#93CAF0",
+        "color14": "#ABD1ED",
+        "color15": "#cfe9f2"
+    }
+}

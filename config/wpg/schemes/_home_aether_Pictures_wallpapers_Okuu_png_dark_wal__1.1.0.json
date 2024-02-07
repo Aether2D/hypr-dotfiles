@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Okuu.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0d12",
+        "foreground": "#d7cbc7",
+        "cursor": "#d7cbc7"
+    },
+    "colors": {
+        "color0": "#0a0d12",
+        "color1": "#3B4E65",
+        "color2": "#4C4D52",
+        "color3": "#5B5C64",
+        "color4": "#917063",
+        "color5": "#AE916E",
+        "color6": "#797986",
+        "color7": "#d7cbc7",
+        "color8": "#968e8b",
+        "color9": "#3B4E65",
+        "color10": "#4C4D52",
+        "color11": "#5B5C64",
+        "color12": "#917063",
+        "color13": "#AE916E",
+        "color14": "#797986",
+        "color15": "#d7cbc7"
+    }
+}

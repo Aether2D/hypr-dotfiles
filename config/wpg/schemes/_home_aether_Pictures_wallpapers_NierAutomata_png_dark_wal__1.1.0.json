@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/NierAutomata.png",
+    "alpha": "100",
+    "special": {
+        "background": "#070D18",
+        "foreground": "#d6ddd0",
+        "cursor": "#d6ddd0"
+    },
+    "colors": {
+        "color0": "#070D18",
+        "color1": "#596556",
+        "color2": "#677462",
+        "color3": "#788671",
+        "color4": "#84927B",
+        "color5": "#7D8882",
+        "color6": "#9CA993",
+        "color7": "#d6ddd0",
+        "color8": "#959a91",
+        "color9": "#596556",
+        "color10": "#677462",
+        "color11": "#788671",
+        "color12": "#84927B",
+        "color13": "#7D8882",
+        "color14": "#9CA993",
+        "color15": "#d6ddd0"
+    }
+}

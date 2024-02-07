@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Mari-L2d.png",
+    "alpha": "100",
+    "special": {
+        "background": "#191a24",
+        "foreground": "#e2e1e8",
+        "cursor": "#e2e1e8"
+    },
+    "colors": {
+        "color0": "#191a24",
+        "color1": "#656F8E",
+        "color2": "#7985A4",
+        "color3": "#9C99A3",
+        "color4": "#D39D92",
+        "color5": "#CED5BD",
+        "color6": "#B2B4D1",
+        "color7": "#e2e1e8",
+        "color8": "#9e9da2",
+        "color9": "#656F8E",
+        "color10": "#7985A4",
+        "color11": "#9C99A3",
+        "color12": "#D39D92",
+        "color13": "#CED5BD",
+        "color14": "#B2B4D1",
+        "color15": "#e2e1e8"
+    }
+}

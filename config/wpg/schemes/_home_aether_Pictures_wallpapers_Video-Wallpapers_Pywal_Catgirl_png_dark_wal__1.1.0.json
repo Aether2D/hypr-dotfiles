@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Catgirl.png",
+    "alpha": "100",
+    "special": {
+        "background": "#24363d",
+        "foreground": "#e3e8e4",
+        "cursor": "#e3e8e4"
+    },
+    "colors": {
+        "color0": "#24363d",
+        "color1": "#6AC6E1",
+        "color2": "#9BA7AB",
+        "color3": "#E3BEB1",
+        "color4": "#91B8C9",
+        "color5": "#A7D6E0",
+        "color6": "#FCD1C9",
+        "color7": "#e3e8e4",
+        "color8": "#9ea29f",
+        "color9": "#6AC6E1",
+        "color10": "#9BA7AB",
+        "color11": "#E3BEB1",
+        "color12": "#91B8C9",
+        "color13": "#A7D6E0",
+        "color14": "#FCD1C9",
+        "color15": "#e3e8e4"
+    }
+}

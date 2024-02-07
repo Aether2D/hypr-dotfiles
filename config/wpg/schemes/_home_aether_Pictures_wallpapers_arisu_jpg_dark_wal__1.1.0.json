@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/arisu.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1016",
+        "foreground": "#e8e2e1",
+        "cursor": "#e8e2e1"
+    },
+    "colors": {
+        "color0": "#0c1016",
+        "color1": "#908C8D",
+        "color2": "#A99398",
+        "color3": "#D4B0AD",
+        "color4": "#F0D0B6",
+        "color5": "#B6BFD0",
+        "color6": "#EDD4CD",
+        "color7": "#e8e2e1",
+        "color8": "#a29e9d",
+        "color9": "#908C8D",
+        "color10": "#A99398",
+        "color11": "#D4B0AD",
+        "color12": "#F0D0B6",
+        "color13": "#B6BFD0",
+        "color14": "#EDD4CD",
+        "color15": "#e8e2e1"
+    }
+}

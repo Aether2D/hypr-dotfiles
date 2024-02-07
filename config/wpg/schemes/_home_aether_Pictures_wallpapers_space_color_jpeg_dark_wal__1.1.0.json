@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/space_color.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#090214",
+        "foreground": "#f2e7e7",
+        "cursor": "#f2e7e7"
+    },
+    "colors": {
+        "color0": "#090214",
+        "color1": "#BE7E82",
+        "color2": "#AB4FB3",
+        "color3": "#A35ED0",
+        "color4": "#DF66D4",
+        "color5": "#B999D3",
+        "color6": "#EEA0E2",
+        "color7": "#f2e7e7",
+        "color8": "#a9a1a1",
+        "color9": "#BE7E82",
+        "color10": "#AB4FB3",
+        "color11": "#A35ED0",
+        "color12": "#DF66D4",
+        "color13": "#B999D3",
+        "color14": "#EEA0E2",
+        "color15": "#f2e7e7"
+    }
+}

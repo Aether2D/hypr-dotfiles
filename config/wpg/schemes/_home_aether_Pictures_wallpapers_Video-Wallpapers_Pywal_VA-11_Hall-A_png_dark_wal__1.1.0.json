@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/VA-11_Hall-A.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#9ec6dc",
+        "cursor": "#9ec6dc"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#2D4A6F",
+        "color2": "#51536F",
+        "color3": "#AD855C",
+        "color4": "#2B5E90",
+        "color5": "#2F63BB",
+        "color6": "#556694",
+        "color7": "#9ec6dc",
+        "color8": "#6e8a9a",
+        "color9": "#2D4A6F",
+        "color10": "#51536F",
+        "color11": "#AD855C",
+        "color12": "#2B5E90",
+        "color13": "#2F63BB",
+        "color14": "#556694",
+        "color15": "#9ec6dc"
+    }
+}

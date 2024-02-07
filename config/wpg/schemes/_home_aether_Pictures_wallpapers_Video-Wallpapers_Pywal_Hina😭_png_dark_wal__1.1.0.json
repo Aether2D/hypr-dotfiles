@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Hina\ud83d\ude2d.png",
+    "alpha": "100",
+    "special": {
+        "background": "#191540",
+        "foreground": "#e4c8ef",
+        "cursor": "#e4c8ef"
+    },
+    "colors": {
+        "color0": "#191540",
+        "color1": "#A06297",
+        "color2": "#A56AA7",
+        "color3": "#9377E9",
+        "color4": "#E9A7B1",
+        "color5": "#9A8AEB",
+        "color6": "#B092F9",
+        "color7": "#e4c8ef",
+        "color8": "#9f8ca7",
+        "color9": "#A06297",
+        "color10": "#A56AA7",
+        "color11": "#9377E9",
+        "color12": "#E9A7B1",
+        "color13": "#9A8AEB",
+        "color14": "#B092F9",
+        "color15": "#e4c8ef"
+    }
+}

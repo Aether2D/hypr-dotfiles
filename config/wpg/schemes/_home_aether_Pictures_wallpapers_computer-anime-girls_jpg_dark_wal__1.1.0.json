@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/computer-anime-girls.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0c09",
+        "foreground": "#bcb1a2",
+        "cursor": "#bcb1a2"
+    },
+    "colors": {
+        "color0": "#0e0c09",
+        "color1": "#3F4036",
+        "color2": "#534831",
+        "color3": "#634E27",
+        "color4": "#695531",
+        "color5": "#615846",
+        "color6": "#716650",
+        "color7": "#bcb1a2",
+        "color8": "#837b71",
+        "color9": "#3F4036",
+        "color10": "#534831",
+        "color11": "#634E27",
+        "color12": "#695531",
+        "color13": "#615846",
+        "color14": "#716650",
+        "color15": "#bcb1a2"
+    }
+}

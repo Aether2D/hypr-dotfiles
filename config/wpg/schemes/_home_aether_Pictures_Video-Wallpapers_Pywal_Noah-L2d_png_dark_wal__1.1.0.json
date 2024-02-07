@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/Video-Wallpapers/Pywal/Noah-L2d.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1d2538",
+        "foreground": "#d2dae6",
+        "cursor": "#d2dae6"
+    },
+    "colors": {
+        "color0": "#1d2538",
+        "color1": "#7798C8",
+        "color2": "#8798B9",
+        "color3": "#94A1BC",
+        "color4": "#879DC3",
+        "color5": "#92A9CB",
+        "color6": "#A5B5D4",
+        "color7": "#d2dae6",
+        "color8": "#9398a1",
+        "color9": "#7798C8",
+        "color10": "#8798B9",
+        "color11": "#94A1BC",
+        "color12": "#879DC3",
+        "color13": "#92A9CB",
+        "color14": "#A5B5D4",
+        "color15": "#d2dae6"
+    }
+}

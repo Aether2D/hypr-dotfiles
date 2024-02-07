@@ -1,0 +1,48 @@
+@import url('file:///home/aether/.cache/wal/colors.css');
+:root {
+  /** colors */
+  --color-name: pywal;
+  --text-color: var(--foreground) !important;
+  --color-bg-shade: var(--color9) !important;
+  --color-bg-base: var(--color0) !important;
+  --color-bg-surface: var(--color1) !important;
+  --color-bg-highlight: var(--color3) !important;
+  --color-fg-shade: var(--color10) !important;
+  --color-fg-base: var(--color3) !important
+  --color-fg-surface: var(--color3) !important;
+  --color-fg-highlight: var(--color3) !important;
+  --color-primary-bg: var(--color4) !important;
+  --color-primary-base: var(--color3) !important;
+  --color-primary-fg: var(--color4) !important;
+  --color-secondary-bg: var(--color15) !important;
+  --color-secondary-base: var(--color14) !important;
+  --color-secondary-fg: var(--color11) !important;
+  --color-palette-red: var(--color12) !important;
+  --color-palette-green: var(--color13) !important;
+  --color-palette-yellow: #EBCB8B;
+  --color-palette-blue: #5E81AC;
+  --color-palette-purple: #B48EAD;
+  --color-palette-cyan: #88C0D0;
+  --color-palette-orange: #D08770;
+  
+  /** general */
+  --font-family: ;
+  --font-size: 1;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 1270px;
+  /*--surface-shadow: 7px 7px 0px var(--color-bg-shade), 12px 12px 0px var(--color-fg-shade), 18px 18px 0px var(--color-secondary-fg), 23px 23px 0px var(--color-palette-red), 28px 28px 0px var(--color-palette-green), 33px 33px 0px var(--color-secondary-base);*/
+  --surface-borderRadius: 20px;
+
+  /** spacing */
+  --space-smallest: 0.23rem;
+  --space-small: 1rem;
+  --space-medium: 1rem;
+  --space-large: 1rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 350px;
+  --group-count: 7;
+}

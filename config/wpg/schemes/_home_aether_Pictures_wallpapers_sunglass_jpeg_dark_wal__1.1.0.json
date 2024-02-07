@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/sunglass.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#010807",
+        "foreground": "#a39fc0",
+        "cursor": "#a39fc0"
+    },
+    "colors": {
+        "color0": "#010807",
+        "color1": "#364758",
+        "color2": "#375064",
+        "color3": "#4B4B59",
+        "color4": "#485367",
+        "color5": "#5D616F",
+        "color6": "#346699",
+        "color7": "#a39fc0",
+        "color8": "#726f86",
+        "color9": "#364758",
+        "color10": "#375064",
+        "color11": "#4B4B59",
+        "color12": "#485367",
+        "color13": "#5D616F",
+        "color14": "#346699",
+        "color15": "#a39fc0"
+    }
+}

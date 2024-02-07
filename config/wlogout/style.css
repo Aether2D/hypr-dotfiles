@@ -1,0 +1,113 @@
+/* ----------- 💫 https://github.com/JaKooLit 💫 -------- */
+/* pywal-wlogout */
+
+/* Importing pywal colors */
+
+@import '../../.cache/wal/colors-waybar.css';
+
+window {
+    font-family: Space Mono Nerd Font ;
+    font-size: 16pt;
+    color: @foreground; /* text */
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+button {
+    color: @foreground;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30%;
+    border: solid 4px @foreground;
+    background-color: transparent;
+    /*animation: gradient_f 20s ease-in infinite;*/
+    margin: 20px;
+    border-radius: 50px;
+}
+
+button:focus {
+    background-color: @color3;
+    color: @background;
+    background-size: 50%;
+    border: solid 4px;
+    border-color: @background;
+    margin: 20px;
+    border-radius: 80px;
+    transition: all 0.4s cubic-bezier(.55, 0.0, .28, 1.682), box-shadow 0.4s ease-in-out, background-color 0.2s ease-in-out;
+    box-shadow: 0 0 20px @color3;
+
+}
+
+button:hover {
+    background-color: @color3;
+    color: @background;
+    background-size: 50%;
+    margin: 20px;
+    border: solid 4px;
+    border-color: @background;
+    border-radius: 80px;
+    transition: all 0.4s cubic-bezier(.55, 0.0, .28, 1.682), box-shadow 0.4s ease-in-out, background-color 0.2s ease-in-out;
+    box-shadow: 0 0 20px @color3;
+	
+}
+
+/* Adjust the size of the icon or content inside the button */
+button span {
+    font-size: 1.2em; /* Increase the font size */
+}
+
+
+#lock {
+    background-image: image(url("./icons/lock.png"));
+}
+#lock:hover {
+    background-image: image(url("./icons/lock-hover.png"));
+}
+#lock:focus {
+    background-image: image(url("./icons/lock-hover.png"));
+}
+
+#logout {
+    background-image: image(url("./icons/logout.png"));
+}
+#logout:hover {
+    background-image: image(url("./icons/logout-hover.png"));
+}
+#logout:focus {
+    background-image: image(url("./icons/logout-hover.png"));
+}
+#suspend {
+    background-image: image(url("./icons/sleep.png"));
+}
+#suspend:hover {
+    background-image: image(url("./icons/sleep-hover.png"));
+}
+#suspend:focus {
+    background-image: image(url("./icons/sleep-hover.png"));
+}
+#shutdown {
+    background-image: image(url("./icons/power.png"));
+}
+#shutdown:hover {
+    background-image: image(url("./icons/power-hover.png"));
+}
+#shutdown:focus {
+    background-image: image(url("./icons/power-hover.png"));
+}
+#reboot {
+    background-image: image(url("./icons/restart.png"));
+}
+#reboot:hover {
+    background-image: image(url("./icons/restart-hover.png"));
+}
+#reboot:focus {
+    background-image: image(url("./icons/restart-hover.png"));
+}
+#hibernate {
+    background-image: image(url("./icons/hibernate.png"));
+}
+#hibernate:hover {
+    background-image: image(url("./icons/hibernate-hover.png"));
+}
+#hibernate:focus {
+    background-image: image(url("./icons/hibernate-hover.png"));
+}

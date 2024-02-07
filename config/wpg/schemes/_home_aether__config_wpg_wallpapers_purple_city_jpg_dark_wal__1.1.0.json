@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/aether/.config/wpg/wallpapers/purple_city.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F122D",
+        "foreground": "#c999e4",
+        "cursor": "#c999e4"
+    },
+    "colors": {
+        "color0": "#0F122D",
+        "color1": "#3C4368",
+        "color2": "#4D4A72",
+        "color3": "#622f9a",
+        "color4": "#622F9A",
+        "color5": "#4D3FB1",
+        "color6": "#554F97",
+        "color7": "#c999e4",
+        "color8": "#8c6b9f",
+        "color9": "#3C4368",
+        "color10": "#4D4A72",
+        "color11": "#622f9a",
+        "color12": "#622F9A",
+        "color13": "#4D3FB1",
+        "color14": "#554F97",
+        "color15": "#c999e4"
+    }
+}

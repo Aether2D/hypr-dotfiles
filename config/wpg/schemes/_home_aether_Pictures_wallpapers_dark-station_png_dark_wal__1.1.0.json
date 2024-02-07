@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/dark-station.png",
+    "alpha": "100",
+    "special": {
+        "background": "#020202",
+        "foreground": "#e4e8e3",
+        "cursor": "#e4e8e3"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#70916C",
+        "color2": "#80937F",
+        "color3": "#9CA89C",
+        "color4": "#B1C8AC",
+        "color5": "#C0CBBF",
+        "color6": "#CDD4CD",
+        "color7": "#e4e8e3",
+        "color8": "#9fa29e",
+        "color9": "#70916C",
+        "color10": "#80937F",
+        "color11": "#9CA89C",
+        "color12": "#B1C8AC",
+        "color13": "#C0CBBF",
+        "color14": "#CDD4CD",
+        "color15": "#e4e8e3"
+    }
+}

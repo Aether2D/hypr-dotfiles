@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/cloudy_crescent.png",
+    "alpha": "100",
+    "special": {
+        "background": "#204b5a",
+        "foreground": "#e4d9de",
+        "cursor": "#e4d9de"
+    },
+    "colors": {
+        "color0": "#204b5a",
+        "color1": "#89ABBB",
+        "color2": "#AAA4B9",
+        "color3": "#C2A1BE",
+        "color4": "#98B1C0",
+        "color5": "#B2B6C4",
+        "color6": "#CDBBC8",
+        "color7": "#e4d9de",
+        "color8": "#9f979b",
+        "color9": "#89ABBB",
+        "color10": "#AAA4B9",
+        "color11": "#C2A1BE",
+        "color12": "#98B1C0",
+        "color13": "#B2B6C4",
+        "color14": "#CDBBC8",
+        "color15": "#e4d9de"
+    }
+}

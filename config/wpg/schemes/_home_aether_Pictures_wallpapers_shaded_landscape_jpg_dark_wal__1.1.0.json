@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/shaded_landscape.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f3144",
+        "foreground": "#eccee4",
+        "cursor": "#eccee4"
+    },
+    "colors": {
+        "color0": "#1f3144",
+        "color1": "#6F8DA8",
+        "color2": "#77C6B9",
+        "color3": "#9085AD",
+        "color4": "#A68FB8",
+        "color5": "#B19AC3",
+        "color6": "#D29AD2",
+        "color7": "#eccee4",
+        "color8": "#a5909f",
+        "color9": "#6F8DA8",
+        "color10": "#77C6B9",
+        "color11": "#9085AD",
+        "color12": "#A68FB8",
+        "color13": "#B19AC3",
+        "color14": "#D29AD2",
+        "color15": "#eccee4"
+    }
+}

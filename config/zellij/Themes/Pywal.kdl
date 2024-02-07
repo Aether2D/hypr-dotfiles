@@ -1,0 +1,15 @@
+themes {
+    pywal {
+        fg "#52ABD9"
+        bg "#848f9a"
+        black "#05131E"
+        red "#539AC8"
+        green "#52ABD9"
+        yellow "#6FBBE3"
+        blue "#3FA0D3"
+        magenta "#6FBBE3"
+        cyan "#52ABD9"
+        white "#3FA0D3"
+        orange "#52ABD9"
+    }
+}

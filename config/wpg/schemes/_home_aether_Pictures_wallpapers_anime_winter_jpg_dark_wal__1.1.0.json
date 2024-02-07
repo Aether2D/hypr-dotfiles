@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/anime_winter.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C1117",
+        "foreground": "#bec8d1",
+        "cursor": "#bec8d1"
+    },
+    "colors": {
+        "color0": "#0C1117",
+        "color1": "#8B8571",
+        "color2": "#5E7A91",
+        "color3": "#5F829A",
+        "color4": "#69859C",
+        "color5": "#6E8DA3",
+        "color6": "#869CB0",
+        "color7": "#bec8d1",
+        "color8": "#858c92",
+        "color9": "#8B8571",
+        "color10": "#5E7A91",
+        "color11": "#5F829A",
+        "color12": "#69859C",
+        "color13": "#6E8DA3",
+        "color14": "#869CB0",
+        "color15": "#bec8d1"
+    }
+}

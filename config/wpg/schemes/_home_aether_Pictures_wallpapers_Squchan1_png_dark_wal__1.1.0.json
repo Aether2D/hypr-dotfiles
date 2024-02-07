@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Squchan1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a080c",
+        "foreground": "#dfd7d4",
+        "cursor": "#dfd7d4"
+    },
+    "colors": {
+        "color0": "#0a080c",
+        "color1": "#936A6A",
+        "color2": "#B1867E",
+        "color3": "#68748F",
+        "color4": "#758DA6",
+        "color5": "#A698A1",
+        "color6": "#D3A59E",
+        "color7": "#dfd7d4",
+        "color8": "#9c9694",
+        "color9": "#936A6A",
+        "color10": "#B1867E",
+        "color11": "#68748F",
+        "color12": "#758DA6",
+        "color13": "#A698A1",
+        "color14": "#D3A59E",
+        "color15": "#dfd7d4"
+    }
+}

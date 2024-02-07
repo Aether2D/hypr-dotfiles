@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/aether/.config/wpg/wallpapers/Leaf.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121212",
+        "foreground": "#cac2c0",
+        "cursor": "#cac2c0"
+    },
+    "colors": {
+        "color0": "#121212",
+        "color1": "#4E514D",
+        "color2": "#61635C",
+        "color3": "#6F716E",
+        "color4": "#837C7B",
+        "color5": "#87857B",
+        "color6": "#8D8B89",
+        "color7": "#cac2c0",
+        "color8": "#8d8786",
+        "color9": "#4E514D",
+        "color10": "#61635C",
+        "color11": "#6F716E",
+        "color12": "#837C7B",
+        "color13": "#87857B",
+        "color14": "#8D8B89",
+        "color15": "#cac2c0"
+    }
+}

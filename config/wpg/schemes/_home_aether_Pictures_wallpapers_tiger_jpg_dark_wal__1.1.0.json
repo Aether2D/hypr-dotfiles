@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/tiger.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#150e0e",
+        "foreground": "#cecbcb",
+        "cursor": "#cecbcb"
+    },
+    "colors": {
+        "color0": "#150e0e",
+        "color1": "#665758",
+        "color2": "#6D5F60",
+        "color3": "#756969",
+        "color4": "#857979",
+        "color5": "#8A7F80",
+        "color6": "#958B8B",
+        "color7": "#cecbcb",
+        "color8": "#908e8e",
+        "color9": "#665758",
+        "color10": "#6D5F60",
+        "color11": "#756969",
+        "color12": "#857979",
+        "color13": "#8A7F80",
+        "color14": "#958B8B",
+        "color15": "#cecbcb"
+    }
+}

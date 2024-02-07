@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/sys-shock-2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0C0B",
+        "foreground": "#cfba8c",
+        "cursor": "#cfba8c"
+    },
+    "colors": {
+        "color0": "#0F0C0B",
+        "color1": "#4E362E",
+        "color2": "#684834",
+        "color3": "#38216E",
+        "color4": "#735E52",
+        "color5": "#985C1A",
+        "color6": "#B8384D",
+        "color7": "#cfba8c",
+        "color8": "#908262",
+        "color9": "#4E362E",
+        "color10": "#684834",
+        "color11": "#38216E",
+        "color12": "#735E52",
+        "color13": "#985C1A",
+        "color14": "#B8384D",
+        "color15": "#cfba8c"
+    }
+}

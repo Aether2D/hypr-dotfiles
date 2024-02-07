@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/White-GLint.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090A0D",
+        "foreground": "#e1e1de",
+        "cursor": "#e1e1de"
+    },
+    "colors": {
+        "color0": "#090A0D",
+        "color1": "#5B6161",
+        "color2": "#667983",
+        "color3": "#6E8D95",
+        "color4": "#959893",
+        "color5": "#B2B3AD",
+        "color6": "#BFC2BC",
+        "color7": "#e1e1de",
+        "color8": "#9d9d9b",
+        "color9": "#5B6161",
+        "color10": "#667983",
+        "color11": "#6E8D95",
+        "color12": "#959893",
+        "color13": "#B2B3AD",
+        "color14": "#BFC2BC",
+        "color15": "#e1e1de"
+    }
+}

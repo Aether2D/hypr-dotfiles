@@ -1,0 +1,63 @@
+format = """
+[](green)\
+[  ](bg:green fg:black)\
+[](bg:yellow fg:green)\
+$directory\
+[](fg:yellow bg:blue)\
+$git_branch\
+$git_status\
+[](fg:blue)\
+$nodejs\
+$rust\
+$golang\
+$php\
+$time\
+\n$character"""
+
+[directory]
+style = "fg:black bg:yellow"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncation_symbol = "…/"
+
+[directory.substitutions]
+"Documents" = "󰈙 "
+"Downloads" = " "
+"Music" = " "
+"Pictures" = " "
+"~" = "󰋜 "
+"Archive" = "󰀼 "
+[git_branch]
+symbol = ""
+style = "bg:blue"
+format = '[[ $symbol $branch ](fg:black bg:blue)]($style)'
+
+[git_status]
+style = "bg:blue"
+format = '[[($all_status$ahead_behind )](fg:black bg:blue)]($style)'
+
+[nodejs]
+symbol = ""
+style = "bg:#212736"
+format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
+
+[rust]
+symbol = ""
+style = "bg:black"
+format = '[[ $symbol ($version) ](fg:yellow bg:black)]($style)'
+
+[golang]
+symbol = ""
+style = "bg:#212736"
+format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
+
+[php]
+symbol = ""
+style = "bg:#212736"
+format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
+
+[time]
+disabled = false
+time_format = "%I:%M"                        # Hour:Minute Format
+style = ""
+format = '[[   $time ](fg:purple)]($style)'

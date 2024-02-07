@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/masaaki-komori.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#272727",
+        "foreground": "#dee0df",
+        "cursor": "#dee0df"
+    },
+    "colors": {
+        "color0": "#272727",
+        "color1": "#969BA2",
+        "color2": "#99A5AA",
+        "color3": "#AEB3B3",
+        "color4": "#C1BDBA",
+        "color5": "#BBC1BD",
+        "color6": "#BAC5C4",
+        "color7": "#dee0df",
+        "color8": "#9b9c9c",
+        "color9": "#969BA2",
+        "color10": "#99A5AA",
+        "color11": "#AEB3B3",
+        "color12": "#C1BDBA",
+        "color13": "#BBC1BD",
+        "color14": "#BAC5C4",
+        "color15": "#dee0df"
+    }
+}

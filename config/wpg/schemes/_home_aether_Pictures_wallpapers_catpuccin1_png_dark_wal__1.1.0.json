@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/catpuccin1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0911",
+        "foreground": "#d8d4da",
+        "cursor": "#d8d4da"
+    },
+    "colors": {
+        "color0": "#0b0911",
+        "color1": "#625D70",
+        "color2": "#6B6779",
+        "color3": "#787386",
+        "color4": "#837C8F",
+        "color5": "#7F808F",
+        "color6": "#9F97A9",
+        "color7": "#d8d4da",
+        "color8": "#979498",
+        "color9": "#625D70",
+        "color10": "#6B6779",
+        "color11": "#787386",
+        "color12": "#837C8F",
+        "color13": "#7F808F",
+        "color14": "#9F97A9",
+        "color15": "#d8d4da"
+    }
+}

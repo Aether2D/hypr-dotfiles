@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/uoh.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1d273e",
+        "foreground": "#eae1e6",
+        "cursor": "#eae1e6"
+    },
+    "colors": {
+        "color0": "#1d273e",
+        "color1": "#6FB4E7",
+        "color2": "#7BC6F1",
+        "color3": "#C29DAC",
+        "color4": "#9FB3D0",
+        "color5": "#E9B4CB",
+        "color6": "#9BCFEC",
+        "color7": "#eae1e6",
+        "color8": "#a39da1",
+        "color9": "#6FB4E7",
+        "color10": "#7BC6F1",
+        "color11": "#C29DAC",
+        "color12": "#9FB3D0",
+        "color13": "#E9B4CB",
+        "color14": "#9BCFEC",
+        "color15": "#eae1e6"
+    }
+}

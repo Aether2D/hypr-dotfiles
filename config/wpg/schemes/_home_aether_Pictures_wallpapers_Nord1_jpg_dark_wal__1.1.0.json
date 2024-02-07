@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Nord1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111920",
+        "foreground": "#ccc0cb",
+        "cursor": "#ccc0cb"
+    },
+    "colors": {
+        "color0": "#111920",
+        "color1": "#BA636D",
+        "color2": "#C6646E",
+        "color3": "#B1897B",
+        "color4": "#5E7588",
+        "color5": "#9E778C",
+        "color6": "#6E92A3",
+        "color7": "#ccc0cb",
+        "color8": "#8e868e",
+        "color9": "#BA636D",
+        "color10": "#C6646E",
+        "color11": "#B1897B",
+        "color12": "#5E7588",
+        "color13": "#9E778C",
+        "color14": "#6E92A3",
+        "color15": "#ccc0cb"
+    }
+}

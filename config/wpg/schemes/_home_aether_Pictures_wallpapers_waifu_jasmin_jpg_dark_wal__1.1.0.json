@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/waifu_jasmin.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#232635",
+        "foreground": "#e5e3e5",
+        "cursor": "#e5e3e5"
+    },
+    "colors": {
+        "color0": "#232635",
+        "color1": "#A59AAB",
+        "color2": "#CCA0B4",
+        "color3": "#ABC6B9",
+        "color4": "#9CB4C7",
+        "color5": "#D0B4C7",
+        "color6": "#ACCFD6",
+        "color7": "#e5e3e5",
+        "color8": "#a09ea0",
+        "color9": "#A59AAB",
+        "color10": "#CCA0B4",
+        "color11": "#ABC6B9",
+        "color12": "#9CB4C7",
+        "color13": "#D0B4C7",
+        "color14": "#ACCFD6",
+        "color15": "#e5e3e5"
+    }
+}

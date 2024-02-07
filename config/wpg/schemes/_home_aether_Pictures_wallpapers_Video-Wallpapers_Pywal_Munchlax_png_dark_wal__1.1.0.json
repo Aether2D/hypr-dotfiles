@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Munchlax.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121315",
+        "foreground": "#dfebf0",
+        "cursor": "#dfebf0"
+    },
+    "colors": {
+        "color0": "#121315",
+        "color1": "#6098A7",
+        "color2": "#4F97D2",
+        "color3": "#54ADF8",
+        "color4": "#B2C3A7",
+        "color5": "#A9D7F5",
+        "color6": "#B4DEFB",
+        "color7": "#dfebf0",
+        "color8": "#9ca4a8",
+        "color9": "#6098A7",
+        "color10": "#4F97D2",
+        "color11": "#54ADF8",
+        "color12": "#B2C3A7",
+        "color13": "#A9D7F5",
+        "color14": "#B4DEFB",
+        "color15": "#dfebf0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/min_forest.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F1C26",
+        "foreground": "#d0e3e8",
+        "cursor": "#d0e3e8"
+    },
+    "colors": {
+        "color0": "#0F1C26",
+        "color1": "#457487",
+        "color2": "#53889A",
+        "color3": "#6FA9B5",
+        "color4": "#7DB4C1",
+        "color5": "#A6D5DD",
+        "color6": "#AAD7E2",
+        "color7": "#d0e3e8",
+        "color8": "#919ea2",
+        "color9": "#457487",
+        "color10": "#53889A",
+        "color11": "#6FA9B5",
+        "color12": "#7DB4C1",
+        "color13": "#A6D5DD",
+        "color14": "#AAD7E2",
+        "color15": "#d0e3e8"
+    }
+}

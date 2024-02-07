@@ -1,0 +1,11 @@
+auto-reload yes
+
+color background           default default
+color listnormal           default default
+color listfocus            black yellow dim 
+color listnormal_unread    yellow default bold
+color listfocus_unread     black yellow underline
+color info                 black magenta
+color article              default default
+
+browser floorp

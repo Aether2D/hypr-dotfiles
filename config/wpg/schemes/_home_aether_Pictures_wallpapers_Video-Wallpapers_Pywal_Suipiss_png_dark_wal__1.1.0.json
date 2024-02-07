@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Suipiss.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#e9e5e7",
+        "cursor": "#e9e5e7"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#D56453",
+        "color2": "#F09D59",
+        "color3": "#496D95",
+        "color4": "#AB7499",
+        "color5": "#58AAD6",
+        "color6": "#CAB5BB",
+        "color7": "#e9e5e7",
+        "color8": "#a3a0a1",
+        "color9": "#D56453",
+        "color10": "#F09D59",
+        "color11": "#496D95",
+        "color12": "#AB7499",
+        "color13": "#58AAD6",
+        "color14": "#CAB5BB",
+        "color15": "#e9e5e7"
+    }
+}

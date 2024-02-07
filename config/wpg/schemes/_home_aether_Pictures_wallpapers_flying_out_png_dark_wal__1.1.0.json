@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/flying_out.png",
+    "alpha": "100",
+    "special": {
+        "background": "#35122b",
+        "foreground": "#e7e6e7",
+        "cursor": "#e7e6e7"
+    },
+    "colors": {
+        "color0": "#35122b",
+        "color1": "#D8C7B4",
+        "color2": "#9FB5D0",
+        "color3": "#B5C7D8",
+        "color4": "#B3CCE2",
+        "color5": "#CCCED3",
+        "color6": "#CFD9E3",
+        "color7": "#e7e6e7",
+        "color8": "#a1a1a1",
+        "color9": "#D8C7B4",
+        "color10": "#9FB5D0",
+        "color11": "#B5C7D8",
+        "color12": "#B3CCE2",
+        "color13": "#CCCED3",
+        "color14": "#CFD9E3",
+        "color15": "#e7e6e7"
+    }
+}

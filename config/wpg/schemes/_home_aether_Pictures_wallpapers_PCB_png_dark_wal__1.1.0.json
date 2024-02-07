@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/PCB.png",
+    "alpha": "100",
+    "special": {
+        "background": "#120906",
+        "foreground": "#d8bfb1",
+        "cursor": "#d8bfb1"
+    },
+    "colors": {
+        "color0": "#120906",
+        "color1": "#704A32",
+        "color2": "#795744",
+        "color3": "#8B3024",
+        "color4": "#8F5732",
+        "color5": "#9A6D52",
+        "color6": "#B48670",
+        "color7": "#d8bfb1",
+        "color8": "#97857b",
+        "color9": "#704A32",
+        "color10": "#795744",
+        "color11": "#8B3024",
+        "color12": "#8F5732",
+        "color13": "#9A6D52",
+        "color14": "#B48670",
+        "color15": "#d8bfb1"
+    }
+}

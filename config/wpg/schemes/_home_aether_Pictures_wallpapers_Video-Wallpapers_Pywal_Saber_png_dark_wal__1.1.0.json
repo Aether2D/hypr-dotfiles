@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Saber.png",
+    "alpha": "100",
+    "special": {
+        "background": "#100d0f",
+        "foreground": "#dbd0c0",
+        "cursor": "#dbd0c0"
+    },
+    "colors": {
+        "color0": "#100d0f",
+        "color1": "#976852",
+        "color2": "#B3915F",
+        "color3": "#BBA85B",
+        "color4": "#CA9B6D",
+        "color5": "#66719B",
+        "color6": "#A39FA0",
+        "color7": "#dbd0c0",
+        "color8": "#999186",
+        "color9": "#976852",
+        "color10": "#B3915F",
+        "color11": "#BBA85B",
+        "color12": "#CA9B6D",
+        "color13": "#66719B",
+        "color14": "#A39FA0",
+        "color15": "#dbd0c0"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/aether/.config/wpg/wallpapers/futurism.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A1624",
+        "foreground": "#f2dab0",
+        "cursor": "#f2dab0"
+    },
+    "colors": {
+        "color0": "#0A1624",
+        "color1": "#5F5663",
+        "color2": "#EC0F31",
+        "color3": "#C3394E",
+        "color4": "#98666A",
+        "color5": "#A48E76",
+        "color6": "#E09F71",
+        "color7": "#f2dab0",
+        "color8": "#a9987b",
+        "color9": "#5F5663",
+        "color10": "#EC0F31",
+        "color11": "#C3394E",
+        "color12": "#98666A",
+        "color13": "#A48E76",
+        "color14": "#E09F71",
+        "color15": "#f2dab0"
+    }
+}

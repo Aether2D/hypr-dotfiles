@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Grayscale.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1b24",
+        "foreground": "#d7d6da",
+        "cursor": "#d7d6da"
+    },
+    "colors": {
+        "color0": "#1a1b24",
+        "color1": "#7D8199",
+        "color2": "#82869E",
+        "color3": "#9294AA",
+        "color4": "#A09FB2",
+        "color5": "#B0ACBA",
+        "color6": "#BCBAC4",
+        "color7": "#d7d6da",
+        "color8": "#969598",
+        "color9": "#7D8199",
+        "color10": "#82869E",
+        "color11": "#9294AA",
+        "color12": "#A09FB2",
+        "color13": "#B0ACBA",
+        "color14": "#BCBAC4",
+        "color15": "#d7d6da"
+    }
+}

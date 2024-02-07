@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/capitalism.png",
+    "alpha": "100",
+    "special": {
+        "background": "#21252d",
+        "foreground": "#ddf5f5",
+        "cursor": "#ddf5f5"
+    },
+    "colors": {
+        "color0": "#21252d",
+        "color1": "#E6A4A6",
+        "color2": "#E8D6AB",
+        "color3": "#9DD8E1",
+        "color4": "#B6F8F9",
+        "color5": "#F8CFD4",
+        "color6": "#E2DDD7",
+        "color7": "#ddf5f5",
+        "color8": "#9aabab",
+        "color9": "#E6A4A6",
+        "color10": "#E8D6AB",
+        "color11": "#9DD8E1",
+        "color12": "#B6F8F9",
+        "color13": "#F8CFD4",
+        "color14": "#E2DDD7",
+        "color15": "#ddf5f5"
+    }
+}

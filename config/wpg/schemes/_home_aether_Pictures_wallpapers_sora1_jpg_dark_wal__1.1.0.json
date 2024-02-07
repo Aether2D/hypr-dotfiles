@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/sora1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#27171d",
+        "foreground": "#e8e0e4",
+        "cursor": "#e8e0e4"
+    },
+    "colors": {
+        "color0": "#27171d",
+        "color1": "#AE969B",
+        "color2": "#DEA5AC",
+        "color3": "#CDB1B1",
+        "color4": "#DCC3BD",
+        "color5": "#DABAC7",
+        "color6": "#EFD0D1",
+        "color7": "#e8e0e4",
+        "color8": "#a29c9f",
+        "color9": "#AE969B",
+        "color10": "#DEA5AC",
+        "color11": "#CDB1B1",
+        "color12": "#DCC3BD",
+        "color13": "#DABAC7",
+        "color14": "#EFD0D1",
+        "color15": "#e8e0e4"
+    }
+}

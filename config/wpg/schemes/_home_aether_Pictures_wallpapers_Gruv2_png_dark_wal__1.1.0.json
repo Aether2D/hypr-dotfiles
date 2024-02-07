@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Gruv2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121313",
+        "foreground": "#b4c2bc",
+        "cursor": "#b4c2bc"
+    },
+    "colors": {
+        "color0": "#121313",
+        "color1": "#646D67",
+        "color2": "#DF581E",
+        "color3": "#9D5245",
+        "color4": "#B98B37",
+        "color5": "#A76986",
+        "color6": "#458588",
+        "color7": "#b4c2bc",
+        "color8": "#7d8783",
+        "color9": "#646D67",
+        "color10": "#DF581E",
+        "color11": "#9D5245",
+        "color12": "#B98B37",
+        "color13": "#A76986",
+        "color14": "#458588",
+        "color15": "#b4c2bc"
+    }
+}

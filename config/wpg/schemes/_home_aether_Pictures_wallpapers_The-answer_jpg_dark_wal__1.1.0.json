@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/The-answer.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f161b",
+        "foreground": "#deebf1",
+        "cursor": "#deebf1"
+    },
+    "colors": {
+        "color0": "#0f161b",
+        "color1": "#5AB5BE",
+        "color2": "#90A8B4",
+        "color3": "#A6CCD9",
+        "color4": "#AFD6E2",
+        "color5": "#B3D8E6",
+        "color6": "#C4DDE9",
+        "color7": "#deebf1",
+        "color8": "#9ba4a8",
+        "color9": "#5AB5BE",
+        "color10": "#90A8B4",
+        "color11": "#A6CCD9",
+        "color12": "#AFD6E2",
+        "color13": "#B3D8E6",
+        "color14": "#C4DDE9",
+        "color15": "#deebf1"
+    }
+}

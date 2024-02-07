@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Beach_dark.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#04030C",
+        "foreground": "#a19ef5",
+        "cursor": "#a19ef5"
+    },
+    "colors": {
+        "color0": "#04030C",
+        "color1": "#3522B9",
+        "color2": "#3C27C7",
+        "color3": "#3612EB",
+        "color4": "#442DD5",
+        "color5": "#411CEF",
+        "color6": "#4D37EB",
+        "color7": "#a19ef5",
+        "color8": "#706eab",
+        "color9": "#3522B9",
+        "color10": "#3C27C7",
+        "color11": "#3612EB",
+        "color12": "#442DD5",
+        "color13": "#411CEF",
+        "color14": "#4D37EB",
+        "color15": "#a19ef5"
+    }
+}

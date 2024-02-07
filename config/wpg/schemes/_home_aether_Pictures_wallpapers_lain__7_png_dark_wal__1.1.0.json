@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/lain__7.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#e4e4e4",
+        "cursor": "#e4e4e4"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#989898",
+        "color2": "#A7A7A7",
+        "color3": "#BCBCBC",
+        "color4": "#C1C1C1",
+        "color5": "#CBCBCB",
+        "color6": "#D5D5D5",
+        "color7": "#e4e4e4",
+        "color8": "#9f9f9f",
+        "color9": "#989898",
+        "color10": "#A7A7A7",
+        "color11": "#BCBCBC",
+        "color12": "#C1C1C1",
+        "color13": "#CBCBCB",
+        "color14": "#D5D5D5",
+        "color15": "#e4e4e4"
+    }
+}

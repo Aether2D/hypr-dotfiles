@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/wallhaven-l3lx7r.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#e4b2eb",
+        "cursor": "#e4b2eb"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#924D8D",
+        "color2": "#AC5BAB",
+        "color3": "#B05FAD",
+        "color4": "#C169BD",
+        "color5": "#BC66C5",
+        "color6": "#CC6ED2",
+        "color7": "#e4b2eb",
+        "color8": "#9f7ca4",
+        "color9": "#924D8D",
+        "color10": "#AC5BAB",
+        "color11": "#B05FAD",
+        "color12": "#C169BD",
+        "color13": "#BC66C5",
+        "color14": "#CC6ED2",
+        "color15": "#e4b2eb"
+    }
+}

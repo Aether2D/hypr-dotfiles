@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/unix.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010000",
+        "foreground": "#cba4a4",
+        "cursor": "#cba4a4"
+    },
+    "colors": {
+        "color0": "#010000",
+        "color1": "#3F4040",
+        "color2": "#4B4B4B",
+        "color3": "#764545",
+        "color4": "#656565",
+        "color5": "#8B3939",
+        "color6": "#8D4E4E",
+        "color7": "#cba4a4",
+        "color8": "#8e7272",
+        "color9": "#3F4040",
+        "color10": "#4B4B4B",
+        "color11": "#764545",
+        "color12": "#656565",
+        "color13": "#8B3939",
+        "color14": "#8D4E4E",
+        "color15": "#cba4a4"
+    }
+}

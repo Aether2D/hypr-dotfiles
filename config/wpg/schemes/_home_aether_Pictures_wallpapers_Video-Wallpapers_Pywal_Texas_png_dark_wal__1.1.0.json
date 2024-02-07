@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Texas.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0c0c",
+        "foreground": "#9acfdd",
+        "cursor": "#9acfdd"
+    },
+    "colors": {
+        "color0": "#0b0c0c",
+        "color1": "#223453",
+        "color2": "#304A6E",
+        "color3": "#5C4E60",
+        "color4": "#92433E",
+        "color5": "#45618F",
+        "color6": "#8C7A91",
+        "color7": "#9acfdd",
+        "color8": "#6b909a",
+        "color9": "#223453",
+        "color10": "#304A6E",
+        "color11": "#5C4E60",
+        "color12": "#92433E",
+        "color13": "#45618F",
+        "color14": "#8C7A91",
+        "color15": "#9acfdd"
+    }
+}

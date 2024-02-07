@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Nier-Automata.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0C1014",
+        "foreground": "#e2e2df",
+        "cursor": "#e2e2df"
+    },
+    "colors": {
+        "color0": "#0C1014",
+        "color1": "#4D4F4E",
+        "color2": "#6B6B67",
+        "color3": "#807D78",
+        "color4": "#8A8876",
+        "color5": "#9D9E97",
+        "color6": "#C4C4B5",
+        "color7": "#e2e2df",
+        "color8": "#9e9e9c",
+        "color9": "#4D4F4E",
+        "color10": "#6B6B67",
+        "color11": "#807D78",
+        "color12": "#8A8876",
+        "color13": "#9D9E97",
+        "color14": "#C4C4B5",
+        "color15": "#e2e2df"
+    }
+}

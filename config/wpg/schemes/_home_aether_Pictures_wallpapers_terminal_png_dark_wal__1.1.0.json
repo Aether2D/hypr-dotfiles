@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/terminal.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d1b28",
+        "foreground": "#f5dcd3",
+        "cursor": "#f5dcd3"
+    },
+    "colors": {
+        "color0": "#0d1b28",
+        "color1": "#5A4F55",
+        "color2": "#585762",
+        "color3": "#615B62",
+        "color4": "#B09590",
+        "color5": "#B5A19F",
+        "color6": "#E7B9AA",
+        "color7": "#f5dcd3",
+        "color8": "#ab9a93",
+        "color9": "#5A4F55",
+        "color10": "#585762",
+        "color11": "#615B62",
+        "color12": "#B09590",
+        "color13": "#B5A19F",
+        "color14": "#E7B9AA",
+        "color15": "#f5dcd3"
+    }
+}

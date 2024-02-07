@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Signalis1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0c0e",
+        "foreground": "#abb3b8",
+        "cursor": "#abb3b8"
+    },
+    "colors": {
+        "color0": "#0b0c0e",
+        "color1": "#44515A",
+        "color2": "#6E555A",
+        "color3": "#4A5965",
+        "color4": "#576772",
+        "color5": "#64727C",
+        "color6": "#5C7984",
+        "color7": "#abb3b8",
+        "color8": "#777d80",
+        "color9": "#44515A",
+        "color10": "#6E555A",
+        "color11": "#4A5965",
+        "color12": "#576772",
+        "color13": "#64727C",
+        "color14": "#5C7984",
+        "color15": "#abb3b8"
+    }
+}

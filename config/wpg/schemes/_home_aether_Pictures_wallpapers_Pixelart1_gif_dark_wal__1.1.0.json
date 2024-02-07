@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Pixelart1.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#211c31",
+        "foreground": "#cbcad9",
+        "cursor": "#cbcad9"
+    },
+    "colors": {
+        "color0": "#211c31",
+        "color1": "#56649A",
+        "color2": "#676B98",
+        "color3": "#5B6DA6",
+        "color4": "#6379AD",
+        "color5": "#6E8EB6",
+        "color6": "#769DC0",
+        "color7": "#cbcad9",
+        "color8": "#8e8d97",
+        "color9": "#56649A",
+        "color10": "#676B98",
+        "color11": "#5B6DA6",
+        "color12": "#6379AD",
+        "color13": "#6E8EB6",
+        "color14": "#769DC0",
+        "color15": "#cbcad9"
+    }
+}

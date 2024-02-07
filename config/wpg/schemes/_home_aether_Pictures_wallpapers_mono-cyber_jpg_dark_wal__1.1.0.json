@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/mono-cyber.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141210",
+        "foreground": "#e6e6e7",
+        "cursor": "#e6e6e7"
+    },
+    "colors": {
+        "color0": "#141210",
+        "color1": "#7F7F83",
+        "color2": "#908F90",
+        "color3": "#fefdff",
+        "color4": "#B1B0B1",
+        "color5": "#BFBEC0",
+        "color6": "#CFCFD0",
+        "color7": "#e6e6e7",
+        "color8": "#a1a1a1",
+        "color9": "#7F7F83",
+        "color10": "#908F90",
+        "color11": "#fefdff",
+        "color12": "#B1B0B1",
+        "color13": "#BFBEC0",
+        "color14": "#CFCFD0",
+        "color15": "#e6e6e7"
+    }
+}

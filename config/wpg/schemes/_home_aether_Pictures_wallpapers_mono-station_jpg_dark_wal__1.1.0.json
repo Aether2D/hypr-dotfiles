@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/mono-station.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020202",
+        "foreground": "#eaeaea",
+        "cursor": "#eaeaea"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#373737",
+        "color2": "#4F4F4F",
+        "color3": "#6F6F6F",
+        "color4": "#919191",
+        "color5": "#AEAEAE",
+        "color6": "#D0D0D0",
+        "color7": "#eaeaea",
+        "color8": "#a3a3a3",
+        "color9": "#373737",
+        "color10": "#4F4F4F",
+        "color11": "#6F6F6F",
+        "color12": "#919191",
+        "color13": "#AEAEAE",
+        "color14": "#D0D0D0",
+        "color15": "#eaeaea"
+    }
+}

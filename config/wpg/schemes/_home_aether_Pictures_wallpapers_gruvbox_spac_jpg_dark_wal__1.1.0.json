@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/gruvbox_spac.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101010",
+        "foreground": "#f2f0e1",
+        "cursor": "#f2f0e1"
+    },
+    "colors": {
+        "color0": "#101010",
+        "color1": "#827D6E",
+        "color2": "#7D8073",
+        "color3": "#8C8877",
+        "color4": "#A8A390",
+        "color5": "#C3BDA4",
+        "color6": "#D4CFB3",
+        "color7": "#f2f0e1",
+        "color8": "#a9a89d",
+        "color9": "#827D6E",
+        "color10": "#7D8073",
+        "color11": "#8C8877",
+        "color12": "#A8A390",
+        "color13": "#C3BDA4",
+        "color14": "#D4CFB3",
+        "color15": "#f2f0e1"
+    }
+}

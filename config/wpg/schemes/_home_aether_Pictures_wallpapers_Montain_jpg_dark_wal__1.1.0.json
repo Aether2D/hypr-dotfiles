@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Montain.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#09111E",
+        "foreground": "#dfe2e9",
+        "cursor": "#dfe2e9"
+    },
+    "colors": {
+        "color0": "#09111E",
+        "color1": "#717986",
+        "color2": "#7B8390",
+        "color3": "#98A0AD",
+        "color4": "#B2BAC7",
+        "color5": "#BCC4D1",
+        "color6": "#C5CDDA",
+        "color7": "#dfe2e9",
+        "color8": "#9c9ea3",
+        "color9": "#717986",
+        "color10": "#7B8390",
+        "color11": "#98A0AD",
+        "color12": "#B2BAC7",
+        "color13": "#BCC4D1",
+        "color14": "#C5CDDA",
+        "color15": "#dfe2e9"
+    }
+}

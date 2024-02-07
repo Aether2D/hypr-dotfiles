@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Frieren.png",
+    "alpha": "100",
+    "special": {
+        "background": "#202a22",
+        "foreground": "#cadee1",
+        "cursor": "#cadee1"
+    },
+    "colors": {
+        "color0": "#202a22",
+        "color1": "#518694",
+        "color2": "#6A9193",
+        "color3": "#629AAB",
+        "color4": "#72A6C9",
+        "color5": "#9AAAA7",
+        "color6": "#B8BCB9",
+        "color7": "#cadee1",
+        "color8": "#8d9b9d",
+        "color9": "#518694",
+        "color10": "#6A9193",
+        "color11": "#629AAB",
+        "color12": "#72A6C9",
+        "color13": "#9AAAA7",
+        "color14": "#B8BCB9",
+        "color15": "#cadee1"
+    }
+}

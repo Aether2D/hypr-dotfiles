@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Arknights.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090a0b",
+        "foreground": "#b5bcb6",
+        "cursor": "#b5bcb6"
+    },
+    "colors": {
+        "color0": "#090a0b",
+        "color1": "#383D41",
+        "color2": "#433F42",
+        "color3": "#3A4546",
+        "color4": "#4D4C4C",
+        "color5": "#65615D",
+        "color6": "#9B5D4E",
+        "color7": "#b5bcb6",
+        "color8": "#7e837f",
+        "color9": "#383D41",
+        "color10": "#433F42",
+        "color11": "#3A4546",
+        "color12": "#4D4C4C",
+        "color13": "#65615D",
+        "color14": "#9B5D4E",
+        "color15": "#b5bcb6"
+    }
+}

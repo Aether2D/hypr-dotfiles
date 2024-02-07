@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Mountain_dark.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010011",
+        "foreground": "#a4d2f1",
+        "cursor": "#a4d2f1"
+    },
+    "colors": {
+        "color0": "#010011",
+        "color1": "#3341CF",
+        "color2": "#0153FE",
+        "color3": "#0170FE",
+        "color4": "#AE45DC",
+        "color5": "#0B8BFE",
+        "color6": "#2E98F9",
+        "color7": "#a4d2f1",
+        "color8": "#7293a8",
+        "color9": "#3341CF",
+        "color10": "#0153FE",
+        "color11": "#0170FE",
+        "color12": "#AE45DC",
+        "color13": "#0B8BFE",
+        "color14": "#2E98F9",
+        "color15": "#a4d2f1"
+    }
+}

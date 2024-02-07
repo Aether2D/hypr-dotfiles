@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/too_much_power.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#261e29",
+        "foreground": "#f4eae2",
+        "cursor": "#f4eae2"
+    },
+    "colors": {
+        "color0": "#261e29",
+        "color1": "#E7CBB9",
+        "color2": "#BAB2C4",
+        "color3": "#C5BCCA",
+        "color4": "#CFC7CF",
+        "color5": "#ECD9D0",
+        "color6": "#DFE0DF",
+        "color7": "#f4eae2",
+        "color8": "#aaa39e",
+        "color9": "#E7CBB9",
+        "color10": "#BAB2C4",
+        "color11": "#C5BCCA",
+        "color12": "#CFC7CF",
+        "color13": "#ECD9D0",
+        "color14": "#DFE0DF",
+        "color15": "#f4eae2"
+    }
+}

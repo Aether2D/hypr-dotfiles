@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Shiroko-Bicycle.png",
+    "alpha": "100",
+    "special": {
+        "background": "#11101b",
+        "foreground": "#c3becb",
+        "cursor": "#c3becb"
+    },
+    "colors": {
+        "color0": "#11101b",
+        "color1": "#665466",
+        "color2": "#847734",
+        "color3": "#8F6D69",
+        "color4": "#6D698A",
+        "color5": "#887691",
+        "color6": "#A09181",
+        "color7": "#c3becb",
+        "color8": "#88858e",
+        "color9": "#665466",
+        "color10": "#847734",
+        "color11": "#8F6D69",
+        "color12": "#6D698A",
+        "color13": "#887691",
+        "color14": "#A09181",
+        "color15": "#c3becb"
+    }
+}

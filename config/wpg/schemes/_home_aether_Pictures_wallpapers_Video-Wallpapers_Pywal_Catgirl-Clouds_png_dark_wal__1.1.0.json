@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/Video-Wallpapers/Pywal/Catgirl-Clouds.png",
+    "alpha": "100",
+    "special": {
+        "background": "#212934",
+        "foreground": "#e2dfe4",
+        "cursor": "#e2dfe4"
+    },
+    "colors": {
+        "color0": "#212934",
+        "color1": "#7489A1",
+        "color2": "#6B9AC6",
+        "color3": "#8B8C93",
+        "color4": "#A2A2AD",
+        "color5": "#9FB4CD",
+        "color6": "#C7B9C6",
+        "color7": "#e2dfe4",
+        "color8": "#9e9c9f",
+        "color9": "#7489A1",
+        "color10": "#6B9AC6",
+        "color11": "#8B8C93",
+        "color12": "#A2A2AD",
+        "color13": "#9FB4CD",
+        "color14": "#C7B9C6",
+        "color15": "#e2dfe4"
+    }
+}

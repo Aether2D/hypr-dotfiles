@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/gruv-temple.png",
+    "alpha": "100",
+    "special": {
+        "background": "#23211c",
+        "foreground": "#c9c5c0",
+        "cursor": "#c9c5c0"
+    },
+    "colors": {
+        "color0": "#23211c",
+        "color1": "#865A36",
+        "color2": "#877563",
+        "color3": "#738379",
+        "color4": "#A2842D",
+        "color5": "#988876",
+        "color6": "#979694",
+        "color7": "#c9c5c0",
+        "color8": "#8c8986",
+        "color9": "#865A36",
+        "color10": "#877563",
+        "color11": "#738379",
+        "color12": "#A2842D",
+        "color13": "#988876",
+        "color14": "#979694",
+        "color15": "#c9c5c0"
+    }
+}

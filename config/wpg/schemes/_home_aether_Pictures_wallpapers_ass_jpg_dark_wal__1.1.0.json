@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/aether/Pictures/wallpapers/ass.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020308",
+        "foreground": "#bebec2",
+        "cursor": "#bebec2"
+    },
+    "colors": {
+        "color0": "#020308",
+        "color1": "#394355",
+        "color2": "#3A4A63",
+        "color3": "#4C4B52",
+        "color4": "#5B606D",
+        "color5": "#727886",
+        "color6": "#7A8498",
+        "color7": "#bebec2",
+        "color8": "#858587",
+        "color9": "#394355",
+        "color10": "#3A4A63",
+        "color11": "#4C4B52",
+        "color12": "#5B606D",
+        "color13": "#727886",
+        "color14": "#7A8498",
+        "color15": "#bebec2"
+    }
+}
